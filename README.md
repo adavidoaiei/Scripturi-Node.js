@@ -23,7 +23,7 @@ This Node.js script scrapes hotel names from the homepage of [litoralulromanesc.
 ## Usage
 Run the script with:
 ```bash
-node scrapper.js
+./scrapper.js
 ```
 
 ## Output
